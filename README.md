@@ -1,5 +1,9 @@
-### Hi there 👋
+# RockingHat
+RockingHat Ranch
 
+![RockingHat Animated GIF](https://rockinghat.com/assets/brand/Rocking_Hat_Logo.gif)
+
+### Hi there 👋
 <!--
 **rockinghat/rockinghat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Making Updates
